@@ -154,8 +154,3 @@ _(Optional: Add screenshots of your app here)_
 **Omar Khaled**  
 Third-year Computer Science student | Frontend React Developer
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
